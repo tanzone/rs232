@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1508484432 source:c:\users\scavalie4\desktop\rs232\_tonde.c
+	"_tonde.h"
+
+1508484362 c:\users\scavalie4\desktop\rs232\_tonde.h
+
+1508484399 source:c:\users\scavalie4\desktop\rs232\main.c
+	<stdio.h>
+	<string.h>
+	"_tonde.h"
+
+1508484434 source:e:\progetto 1 finito\rs232\_tonde.c
+	"_tonde.h"
+
+1508484364 e:\progetto 1 finito\rs232\_tonde.h
+
+1508484400 source:e:\progetto 1 finito\rs232\main.c
+	<stdio.h>
+	<string.h>
+	"_tonde.h"
+
